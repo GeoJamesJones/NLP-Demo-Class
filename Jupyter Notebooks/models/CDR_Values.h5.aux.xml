@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="//dense_1/dense_1/kernel">
+    <PAMDataset>
+      <Metadata domain="MULTIDIMENSION">
+        <MDI key="#backend">tensorflow</MDI>
+        <MDI key="#keras_version">2.1.4</MDI>
+        <MDI key="#layer_names">dense_1dense_2dense_3</MDI>
+        <MDI key="dense_1#weight_names">dense_1/kernel:0dense_1/bias:0</MDI>
+        <MDI key="dense_2#weight_names">dense_2/kernel:0dense_2/bias:0</MDI>
+        <MDI key="dense_3#weight_names">dense_3/kernel:0dense_3/bias:0</MDI>
+      </Metadata>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
